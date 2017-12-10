@@ -4,9 +4,9 @@
     "serverVersion": "2.0",
     "serverFlag": "1",
     "lastForce": "1",
-    "updateurl": "http://releases.b0.upaiyun.com/hoolay.apk",
+    "updateurl": "https://raw.githubusercontent.com/ZBJDSBJ/APPUpdate/master/Alina_official_v2.0.apk",
     "upgradeinfo": "V2.0版本更新，你想不想要试一下哈！！！"
   },
   "error_code": "200",
-  "error_msg": "蛋疼的认识"
+  "error_msg": "正常"
 }
